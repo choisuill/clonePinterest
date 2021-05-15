@@ -1,0 +1,25 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.pragmatic-header-wrapper {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.pragmatic-footer-logo {
+    margin-top: 1rem;
+}
+
+.pragmatic-footer-button {
+    font-size: 0.6rem;
+}
+
+.pragmatic-footer-wrapper {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.pragmatic-footer-logo-box {
+    margin-top: 1rem;
+}
